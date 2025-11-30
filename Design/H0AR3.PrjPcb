@@ -118,16 +118,16 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Module_Description
-Value=A digital microphone board.
+Name=revision
+Value=0
 
 [Parameter2]
 Name=Module_Name
-Value=Digital MEMS Microphone
+Value=H0AR3
 
 [Parameter3]
-Name=revision
-Value=0
+Name=Module_Description
+Value=A digital microphone board.
 
 [Configuration1]
 Name=Sources
