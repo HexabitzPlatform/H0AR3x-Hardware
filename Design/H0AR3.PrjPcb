@@ -64,7 +64,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TQGQSHTG
 
 [Document2]
 DocumentPath=Digital MEMS Microphone Fronend.SchDoc
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GNGXNYEU
 
 [Document3]
-DocumentPath=Digital MEMS Microphone.PcbDoc
+DocumentPath=Digital MEMS Microphone(A).PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,16 +101,16 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVUDOLC
 
 [Parameter1]
-Name=revision
-Value=0
+Name=Module_Description
+Value=A digital microphone board.
 
 [Parameter2]
 Name=Module_Name
 Value=Digital MEMS Microphone
 
 [Parameter3]
-Name=Module_Description
-Value=A digital microphone board.
+Name=revision
+Value=0
 
 [Configuration1]
 Name=Sources
